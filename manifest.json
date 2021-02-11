@@ -19,8 +19,5 @@
       ],
       "js": ["lib/jquery-1.12.4.js","lib/jquery-ui.js"]
     }
-  ],
-  "web_accessible_resources": [
-    "images/*.jpeg"
   ]
 }
