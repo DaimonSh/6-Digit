@@ -1,23 +1,33 @@
 {
   "name": "6-Digit",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "manifest_version": 2,
   "description": "6-Digit codes viewer.",
   "icons": {
     "16": "icons/icon.png",
     "32": "icons/icon.png",
     "48": "icons/icon.png",
-    "128": "icons/icon.png"
+    "128": "icons/icon.png",
+    "256": "icons/icon.png"
   },
   "browser_action": {
-    "default_popup": "popup/popup.html"
+    "default_popup": "popup/popup_v2.html"
   },
   "content_scripts": [
     {
       "matches": [
         "<all_urls>"
       ],
-      "js": ["lib/jquery-1.12.4.js","lib/jquery-ui.js"]
+      "js": ["lib/jquery-1.12.4.js"]
     }
+  ],
+  "options_ui": {
+    "page": "options/options.html",
+    "open_in_tab": false
+  },
+  "permissions": [
+    "storage",
+    "clipboardWrite"
   ]
 }
+

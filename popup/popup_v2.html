@@ -1,0 +1,39 @@
+<html>
+
+<head>
+  <title>6-Digit</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="../lib/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../styles/global.css">
+  <link rel="stylesheet" href="../styles/popup_v2.css">
+  <script src="popup_v2.js"></script>
+  <script src="../lib/jquery-1.12.4.js"></script>
+
+</head>
+
+<body>
+
+
+  <div id="search-box">
+    <span id="logo">
+      6-Digit viewer
+    </span>
+    <span id="search-field">
+      <input type="text" id="code-input" placeholder="Search.." name="search" minlength="1" maxlength="7">
+      <button><i class="fa fa-search"></i></button>
+    </span>
+  </div>
+
+
+  <div class="hidden" id="search-result">
+
+    <span class="button" id="show-next-image"><i class="far fa-plus-square"></i></span>
+    <div id="short-info">
+      <H2></H2>
+      <p></p>
+      <span id="copy-to-clipboard" class="button">Copy to clipboard <i class="fas fa-external-link-alt"></i></span>
+    </div>
+  </div>
+
+  <div style="height:0;" id="bottom"></div>
+</body>

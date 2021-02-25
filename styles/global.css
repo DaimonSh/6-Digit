@@ -1,0 +1,74 @@
+:root{
+    --background-color: #1a1a1a;
+    --button-color: #10abee; /* #ad86ff */
+    --button-hover-color: #1fb6f7;
+    --text-color: snow;
+    --outline-color: #10abee; /*#c4c4c4*/
+    --inverted-color: #ED8711;
+	--border-style: solid var(--outline-color) 1px;
+}
+
+input[type=text]:focus {
+    outline: none;
+}
+
+button:focus {
+    outline: none;
+}
+
+.interactable {
+    cursor: pointer;
+}
+
+.hidden {
+	display: none !important;
+}
+
+*{
+    transition: filter 1s;
+}
+
+.blurred {
+	filter: blur(4px);
+    transition: filter 1s;
+}
+
+.button {
+    cursor: pointer;
+    background-color: var(--background-color);
+	border: var(--border-style);
+    color: var(--text-color);
+    margin-top: 10px;
+    padding: 12px 15px;
+    margin-bottom: 10px;
+	text-align: center;
+    border-radius: 5px;
+}
+
+.button:hover {
+	background-color:var(--button-hover-color);
+	color: var(--text-color);
+}
+
+input {
+    border-radius: 5px;
+}
+
+
+.svg-icon {
+    width: 1em;
+    height: 100%;
+}
+  
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: var(--svg-color);
+	stroke: var(--svg-color);
+    stroke-width: 0.65;
+}
+  
+.svg-icon circle {
+    stroke: var(--svg-color);
+    stroke-width: 1;
+}

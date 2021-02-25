@@ -4,6 +4,7 @@
 	<script src="popup.js"></script>
 	<script src="../lib/jquery-1.12.4.js"></script>
 	<link rel="stylesheet" href="../styles/popup.css">
+	<link rel="stylesheet" href="../styles/global.css">
   </head>
   <body>
   
@@ -14,7 +15,7 @@
 					<input type="number" placeholder="ex: 177013" id="code_input"></input>
 				</td>
 				<td>
-					<button id="search_button">Search</button>
+					<button id="search_button" class="button">Search</button>
 				</td>
 			</tr>
 		</table>
@@ -23,13 +24,14 @@
 
 		<table>
 			<tr>
-				<td rowspan="3" class="img"><img class="dj_image"><img class="dj_image"></td><td class="h2_td"><h2 id="dj_title"></h2></td>
+				<td rowspan="3" class="img"><img class="dj_image"><img class="dj_image"></td>
+				<td class="h2_td"><h2 id="dj_title"></h2></td>
 			</tr>
 			<tr>
 				<td><p id="dj_tags"></p></td>
 			</tr>
 			<tr>
-				<td class="link_td"><a id="dj_link" target="blank" href=""></a></td>
+				<td class="link_td"><a id="dj_link" class="button" target="blank" href="">Open in new tab</a></td>
 			</tr>
 		</table>
 			

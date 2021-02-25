@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\prors\GIT\6-Digit\icons\icon_v2.png"
+   inkscape:export-xdpi="199.52744"
+   inkscape:export-ydpi="199.52744">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect890"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect843"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect841"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35402167"
+     inkscape:cx="458.77513"
+     inkscape:cy="349.30291"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="931"
+     inkscape:window-height="1048"
+     inkscape:window-x="918"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.318;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path833-7"
+       sodipodi:sides="6"
+       sodipodi:cx="-109.13209"
+       sodipodi:cy="-79.717529"
+       sodipodi:r1="33.297943"
+       sodipodi:r2="28.836868"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -91.160201,-106.26304 14.00314,24.25415 a 4.5827177,4.5827177 89.999997 0 1 0,4.582718 l -14.003137,24.254148 a 4.5827177,4.5827177 150 0 1 -3.96875,2.291359 l -28.006272,10e-7 a 4.5827177,4.5827177 29.999997 0 1 -3.96875,-2.291359 l -14.00314,-24.254146 a 4.5827177,4.5827177 89.999997 0 1 0,-4.582718 l 14.00313,-24.254143 a 4.5827177,4.5827177 150 0 1 3.96875,-2.29136 l 28.006279,0 a 4.5827177,4.5827177 29.999997 0 1 3.96875,2.29135 z"
+       inkscape:transform-center-y="-2.1143651e-06"
+       inkscape:path-effect="#path-effect890"
+       inkscape:export-xdpi="183.87177"
+       inkscape:export-ydpi="183.87177"
+       inkscape:export-filename="C:\Users\prors\path833.png"
+       transform="matrix(-1,0,0,-0.98954006,-12.753802,41.020789)"
+       inkscape:transform-center-x="3.0526656e-06" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:none;stroke-width:0.317619;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path833"
+       sodipodi:sides="6"
+       sodipodi:cx="92.574478"
+       sodipodi:cy="119.05615"
+       sodipodi:r1="33.297943"
+       sodipodi:r2="28.836868"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 110.54636,92.510645 14.00314,24.254145 a 4.5827177,4.5827177 89.999997 0 1 0,4.58272 l -14.00313,24.25415 a 4.5827177,4.5827177 150 0 1 -3.96875,2.29136 l -28.006279,0 a 4.5827177,4.5827177 29.999997 0 1 -3.96875,-2.29136 L 60.599452,121.34751 a 4.5827177,4.5827177 89.999997 0 1 0,-4.58272 L 74.602589,92.510647 a 4.5827177,4.5827177 150 0 1 3.968749,-2.291359 l 28.006272,-1e-6 a 4.5827177,4.5827177 29.999997 0 1 3.96875,2.291358 z"
+       inkscape:transform-center-x="5.2297304e-06"
+       inkscape:transform-center-y="-4.231719e-06"
+       inkscape:path-effect="#path-effect841"
+       inkscape:export-xdpi="183.87177"
+       inkscape:export-ydpi="183.87177"
+       inkscape:export-filename="C:\Users\prors\path833.png"
+       transform="matrix(0,0.98954006,-1,0,215.43444,28.298323)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#13aff0;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path835"
+       sodipodi:sides="6"
+       sodipodi:cx="92.574478"
+       sodipodi:cy="119.05615"
+       sodipodi:r1="24.59882"
+       sodipodi:r2="21.303205"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 106.1968,100.04431 9.65358,16.72048 a 4.5827177,4.5827177 89.999997 0 1 0,4.58272 l -9.65357,16.72049 a 4.5827177,4.5827177 150 0 1 -3.96875,2.29135 l -19.307158,1e-5 a 4.5827177,4.5827177 29.999997 0 1 -3.96875,-2.29136 l -9.653577,-16.72049 a 4.5827177,4.5827177 89.999997 0 1 0,-4.58272 l 9.653575,-16.72048 a 4.5827177,4.5827177 150 0 1 3.96875,-2.29136 l 19.30715,-10e-7 a 4.5827177,4.5827177 29.999997 0 1 3.96875,2.291361 z"
+       inkscape:transform-center-x="6.8467597e-06"
+       inkscape:transform-center-y="-8.7446846e-06"
+       inkscape:path-effect="#path-effect843"
+       inkscape:export-xdpi="183.87177"
+       inkscape:export-ydpi="183.87177"
+       inkscape:export-filename="C:\Users\prors\path833.png"
+       transform="matrix(0,1.6703296,-1.6879858,0,297.34338,-34.725416)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:59.6121px;line-height:1.25;font-family:sans-serif;fill:#13aff0;fill-opacity:1;stroke:#13aff0;stroke-width:1.72061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="76.705627"
+       y="142.23616"
+       id="text839"
+       inkscape:export-xdpi="183.87177"
+       inkscape:export-ydpi="183.87177"
+       inkscape:export-filename="C:\Users\prors\path833.png"
+       transform="scale(1.0052713,0.99475635)"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="76.705627"
+         y="142.23616"
+         style="fill:#13aff0;fill-opacity:1;stroke:#13aff0;stroke-width:1.72061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#f01313;stroke-width:6.374;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       id="rect892"
+       width="83.785355"
+       height="83.785355"
+       x="54.485607"
+       y="78.011803"
+       inkscape:export-xdpi="183.87177"
+       inkscape:export-ydpi="183.87177" />
+  </g>
+</svg>
